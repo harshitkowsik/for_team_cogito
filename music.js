@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function() {
           },
           {
             title: "Song 8",
-            artist: "Maan Meri Jaan - King ",
+            artist: "Meri Jaan - King ",
             cover: "8.jpg",
             file: "song8.mp3"
           },
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", function() {
           },
           {
             title: "Song 11",
-            artist: "Tum Prem Ho - Aishwarya Anand",
+            artist: "Tum Prem - Aishwarya",
             cover: "11.jpg",
             file: "song11.mp3"
           },
@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function() {
           },
           {
             title: "Song 13",
-            artist: "Illegal Weapon 2.0 - Garry Sandhu",
+            artist: "Weapon- Garry Sandhu",
             cover: "13.jpg",
             file: "song13.mp3"
           },

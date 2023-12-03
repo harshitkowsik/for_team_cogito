@@ -227,7 +227,7 @@ a, a:link, a:visited {
 	background: black;
 
 }
-.superHero1 {background-image: url("5.jpg"); border-radius: 25px !important;}
+.superHero1 {background-image: url(5.jpg); border-radius: 25px !important;}
 .superHero2 {background: url(11.jpg); border-radius: 25px !important;}
 .superHero3 {background: url(14.jpg); border-radius: 25px !important;}
 .superHero4 {background: url(13.jpg); border-radius: 25px !important;}

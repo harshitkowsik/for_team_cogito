@@ -13,7 +13,7 @@
     display:none;
 }
 
-   @media (width < 650px) {
+   @media (width < 1200px) {
 
 	   .mob-all-hide{
 		   display: none;

@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-.mob-view-hide{
-    display:none;
-}
-
 .bar{
     height: 50px;
     width: auto;
@@ -369,27 +365,4 @@ nav .circle{
     height: 30px;
 }
 
-    @media (max-width: 650px) {
 
-    html, body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-    }
-
-    .mob-view-hide {
-        display: flex;
-        height:100%;
-        width:100%;
-        justify-content: center;
-        align-items: center;
-        z-index: 10;
-        background: white;
-    }
-
-    .mob-text{
-        width: 50vw;
-        text-align: center;
-    }
-}

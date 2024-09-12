@@ -24,11 +24,13 @@
         align-items: center;
         z-index: 10;
         background: white;
+	    padding: 30px;
     }
 
 	   .mob-text{
 		   width:80%;
 		   text-align: center;
+	   }
 
 }
 

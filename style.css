@@ -4,6 +4,15 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+.mob-view-hide{
+    height : 100vh;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .bar{
     height: 50px;
     width: auto;
